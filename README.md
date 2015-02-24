@@ -5,7 +5,7 @@
 #### Use your own Spark configs and export as needed
 
 ### Use:
-sbt/sbt package
+sbt/sbt package<br>
 sbt/sbt run
 
 
